@@ -4,7 +4,7 @@ It is a group of robots that send reporting requests from different devices to t
 
 ban or unban whatsapp using termux or kali by python script
 =
-apt install update && apt install upgrade
+apt update && apt upgrade
 *************************************************************
 pkg install git
 *************************************************************
