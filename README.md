@@ -1,4 +1,4 @@
-# Tool_Ban_WhatsappV1.1
+# WA-BAN
 <img width="250" alt="Image" src="https://i.postimg.cc/VsTkVcsj/Picsart-26-01-30-06-00-17-640.jpg" />
 It is a group of robots that send reporting requests from different devices to the number 
 
@@ -20,7 +20,7 @@ git clone https://github.com/CYBER-IMMU/WA-BAN && cd WA-BAN
 *************************************************************
 python main.py if you cant start script
 *************************************************************
-*** +201234567890 --> test number
+*** +92123456789 --> test number
 *************************************************************
 open new > cd WA-BAN && python main.py
 *************************************************************
